@@ -1,5 +1,4 @@
-.build/
-.dist/
+dist/
 
 __pycache__/
 .vscode/
